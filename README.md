@@ -1,1 +1,1 @@
-# GOIT-test
+# GOITtest
